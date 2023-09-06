@@ -1,0 +1,27 @@
+.body{
+    background-color: rgb(154, 181, 176);
+}
+
+.imgUrl {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .imgUrl h1 {
+    max-height: 350px;
+    overflow: hidden;
+  }
+  
+  .imgUrl img {
+    max-height: 500px;
+    max-width: 600px;
+  }
+
+  .body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
